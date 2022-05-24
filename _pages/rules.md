@@ -15,6 +15,6 @@ comments: true
 ## قوانین شرکت در ایونت
 برای شرکت در ایونت داشتن بیمه ورزشی و همچنین امضا فرم زیر الزامی است:  
 
-[فایل قوانین شرکت در ایونت](/assets/files/rule.pdf)  
+[فایل قوانین شرکت در ایونت](/assets/files/rules.pdf)  
 
 [دریافت آنلاین بیمه ورزشی](https://insurance.ifsm.ir/UserOnline/Login)  
