@@ -1,7 +1,7 @@
 ---
 title:  "نئور به سوباتان"
 metadate: "hide"
-categories: [البرز, آبشار, گیلان , دشت , رودخانه]
+categories: [اردبیل, آبشار, گیلان , دشت , رودخانه]
 image: "/assets/img/03_neor_subatan.jpg"
 visit: "https://travel.mhkarami97.ir/neor_lake_to_subatan"
 ---
