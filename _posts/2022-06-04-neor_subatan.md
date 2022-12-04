@@ -1,5 +1,5 @@
 ---
-title:  "نئور به سوباتان"
+title: "نئور به سوباتان"
 metadate: "hide"
 categories: [اردبیل, آبشار, گیلان , دشت , رودخانه]
 image: "/assets/img/03_neor_subatan.jpg"

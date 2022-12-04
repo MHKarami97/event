@@ -1,5 +1,5 @@
 ---
-title:  "دشت لار به چشمه دیوآسیاب"
+title: "دشت لار به چشمه دیوآسیاب"
 metadate: "hide"
 categories: [مازندران, دشت , چشمه , سد , تهران , گوگردی , رودخانه]
 image: "/assets/img/05_lar_to_divasiab.jpg"

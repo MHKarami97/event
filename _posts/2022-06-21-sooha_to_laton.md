@@ -1,5 +1,5 @@
 ---
-title:  "سوها به لاتون"
+title: "سوها به لاتون"
 metadate: "hide"
 categories: [اردبیل, آبشار , آبگرم , جنگل , گیلان , دشت , رودخانه]
 image: "/assets/img/04_sooha_to_laton.jpg"
